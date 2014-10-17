@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpu:home|Door43 (tpu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpu|d43-tpu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpu/archive/master.zip|d43-tpu.zip]]
+
+**Recent Changes**
+{{changes>ns = tpu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpu|Ethnologue data]]
+
